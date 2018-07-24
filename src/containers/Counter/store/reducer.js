@@ -1,0 +1,1 @@
+// Another way to use a reducer for file structure
